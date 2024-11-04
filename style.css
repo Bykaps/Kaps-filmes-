@@ -1,3 +1,12 @@
+body{
+    color: rgb(247, 186, 94);
+    background:rgba(160, 16, 16, 0.781) ;
+    margin: 0px;
+    font-family: "Itim", cursive;
+    margin-bottom: 100px;
+
+}
+
 .chamada{
     background: rgb(160, 16, 16);
     margin-top: 88px;
