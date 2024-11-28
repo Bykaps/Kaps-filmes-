@@ -29,8 +29,27 @@ h1{
     front-size: 34px;
 }
 .categoria{
-    background: red;
+    background:  rgb(160,16, 16);
+    padding-left: 20px;
+    padding-right:20px;
+    margin-top:50px;
 }
+.categorias-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categorias-videos leg{
+    opacity: 0.5;
+    height: 20px;
+}
+.categoria-videos img-hover{
+    opacity: 1.0;
+    border: 3px solid rgb(247, 186, 94);
+}
+
+
+
  
 
 
